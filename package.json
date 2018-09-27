@@ -1,0 +1,29 @@
+{
+  "name": "keep-active",
+  "version": "1.0.0",
+  "description": "keep your tooks active when you are not",
+  "main": "index.js",
+  "bin": {
+    "keep-active": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liqiang372/keep-active.git"
+  },
+  "keywords": [
+    "slack",
+    "active"
+  ],
+  "author": "liqiang372 <liqiang372@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liqiang372/keep-active/issues"
+  },
+  "homepage": "https://github.com/liqiang372/keep-active#readme",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}
